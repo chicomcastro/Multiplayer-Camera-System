@@ -1,0 +1,20 @@
+Revisar:
+- Animator (ver necessidade)
+
+Apresentar:
+    Input selection:
+        ☐ Public KeyCodes
+        ☐ Input manager
+    Multi-player camera:
+        ☐ Singlecam
+        ☐ Multicam
+    Interactions:
+        ☐ Load Scene
+        Attack (ranged):
+            ☐ Instantiate
+            ☐ Trigger collision
+            ☐ HP system
+            ☐ Destroy
+        ☐ Open chests
+    ☐ Sounds (Audio Source)
+    ☐ UI (Canvas)
