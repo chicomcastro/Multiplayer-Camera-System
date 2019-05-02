@@ -9,10 +9,10 @@ namespace UnityStandardAssets._2D
         public KeyCode left;
         public KeyCode down;
         public KeyCode right;
-
         public KeyCode jump;
 
         public string horizontalAxis;
         public string jumpButton;
+        
     }
 }
